@@ -15,7 +15,7 @@ return (
     <div>
         <h3>{props.Restaurant_name}</h3>
         <p>{props.categories}</p>
-        <p>Cost for one: {props.costforone}₹</p>
+        <p>Cost for two: {props.costforone}₹</p>
         <p>Accepts: {newPayment.join(" ")}</p>
     </div> 
     <div>
