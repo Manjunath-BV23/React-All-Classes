@@ -1,0 +1,64 @@
+{
+  "houses": [
+    {
+      "name": "Manjunath",
+      "ownerName": "Veeranna",
+      "address": "Bandrepalli",
+      "areaCode": "2311",
+      "rent": "5000",
+      "preferredTenant": "",
+      "bachelor": "bachelor",
+      "married": "married",
+      "image": "https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2019/2/7/3/BP_HHMTN310_Bolden_home-exterior_AFTER_0132.jpg.rend.hgtvcom.966.644.suffix/1549585070420.jpeg",
+      "id": 1
+    },
+    {
+      "name": "Sowji",
+      "ownerName": "Manju",
+      "address": "Bangalore",
+      "areaCode": "MS53",
+      "rent": "10000",
+      "preferredTenant": "",
+      "bachelor": "bachelor",
+      "married": "married",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTds1QU3C9rfy11ACT3WytNhPP2wuGd0rCa3xyLxiVb8BDXYEpGm_GWM8uxcdXKz27MgT8&usqp=CAU",
+      "id": 2
+    },
+    {
+      "name": "Nagesh",
+      "ownerName": "Manju",
+      "address": "Bangalore",
+      "areaCode": "NMS23",
+      "rent": "10000",
+      "preferredTenant": "",
+      "bachelor": "bachelor",
+      "married": "",
+      "image": "https://i.pinimg.com/originals/8b/bd/6b/8bbd6bcc6985b9c0590391754047294c.jpg",
+      "id": 3
+    },
+    {
+      "name": "Sowji",
+      "ownerName": "Manjunath",
+      "address": "Bangalore",
+      "areaCode": "MS53",
+      "rent": "10000",
+      "preferredTenant": "",
+      "bachelor": "",
+      "married": "married",
+      "image": "https://i.pinimg.com/originals/1c/cc/fa/1cccfa9114be30ff76b4b558fbd24364.jpg",
+      "id": 4
+    },
+    {
+      "name": "jhj",
+      "ownerName": "d",
+      "address": "dd",
+      "areaCode": "d",
+      "rent": "d",
+      "preferredTenant": "",
+      "bachelor": "bachelor",
+      "married": "married",
+      "image": "d",
+      "id": 5
+    }
+  ]
+}

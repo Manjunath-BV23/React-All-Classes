@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "name": "Samuel",
+      "password": "secret",
+      "location": "bangalore",
+      "interests": [
+        "technology",
+        "food",
+        "movies",
+        "culture",
+        "art",
+        "drama"
+      ],
+      "image": "https://images.unsplash.com/photo",
+      "id": 1,
+      "subscribed": [
+        1,
+        5
+      ]
+    }
+  ],
+  "meetups": [
+    {
+      "title": "Project meet",
+      "location": "bangalore",
+      "date": "2022-04-03",
+      "time": "10:30",
+      "theme": "technology",
+      "description": "Project meet with my all team members",
+      "image": "https://media.istockphoto.com/photos/having-a-positive-attitude-is-rewarding-picture-id588266018?b=1&k=20&m=588266018&s=170667a&w=0&h=iCaNx0Z-_KeUFnyxMoGmbwzMzZ4KShMjElYLZfVVMOg=",
+      "id": 1
+    },
+    {
+      "title": "Party",
+      "location": "delhi",
+      "date": "2022-04-06",
+      "time": "12:00",
+      "theme": "culture",
+      "description": "party with my best friend",
+      "image": "https://media.istockphoto.com/photos/successful-african-american-businessman-stretching-hand-for-handshake-picture-id1315139408?b=1&k=20&m=1315139408&s=170667a&w=0&h=p-RaT6ZaYmFfkB4T2Mum9qi_pVz76lWaPEIVWO37_o8=",
+      "id": 2
+    },
+    {
+      "title": "Festivel",
+      "location": "kolkata",
+      "date": "2022-04-23",
+      "time": "9:30",
+      "theme": "culture",
+      "description": "celebration of holi with my family",
+      "image": "https://media.istockphoto.com/photos/multietching-group-of-happy-students-greeting-someone-in-university-picture-id1312241568?b=1&k=20&m=1312241568&s=170667a&w=0&h=5ecYNLkG3Z6rmzNkfq_uA1ZzTii1twUg9rIgDnXIvss=",
+      "id": 3
+    },
+    {
+      "title": "Festivel",
+      "location": "kolkata",
+      "date": "2022-04-23",
+      "time": "9:30",
+      "theme": "culture",
+      "description": "celebration of holi with my family",
+      "image": "https://media.istockphoto.com/photos/multietching-group-of-happy-students-greeting-someone-in-university-picture-id1312241568?b=1&k=20&m=1312241568&s=170667a&w=0&h=5ecYNLkG3Z6rmzNkfq_uA1ZzTii1twUg9rIgDnXIvss=",
+      "id": 4
+    }
+  ]
+}
